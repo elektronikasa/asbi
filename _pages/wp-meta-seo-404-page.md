@@ -1,6 +1,6 @@
 ---
 ID: 382
-post_title: WP Meta SEO 404 Page
+post_title: 404 error page
 author: jamescells
 post_excerpt: metaseo_404_page
 layout: page
